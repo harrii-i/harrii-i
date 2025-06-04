@@ -27,7 +27,7 @@
 
 | Project | Tech Stack | Demo | Repo |
 |--------|-------------|------|------|
-| **Portfolio Website** | React, Tailwind CSS | Coming_Soon | https://github.com/harrii-i/portfolio |
+| **Portfolio Website** | React, Tailwind CSS | https://portfolio-45v46hij4-harishankar-as-projects.vercel.app/ | https://github.com/harrii-i/portfolio |
 
 ---
 
