@@ -18,7 +18,7 @@
 
 ## 🛠️ Skills & Tools
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,python,git,github,vscode,linux)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,c,git,github,vscode,linux)
 
 
 ---
@@ -27,7 +27,7 @@
 
 | Project | Tech Stack | Demo | Repo |
 |--------|-------------|------|------|
-| **Portfolio Website** | React, Tailwind CSS | [Live](#) | [Code](#) |
+| **Portfolio Website** | React, Tailwind CSS | Coming_Soon | https://github.com/harrii-i/portfolio |
 
 ---
 
